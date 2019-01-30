@@ -1,6 +1,7 @@
 body { font-family: sans-serif; }
 
-.scene {
+.scene1 {
+  display: inline-block;
   width: 200px;
   height: 260px;
   border: 1px solid #CCC;
